@@ -1,0 +1,10 @@
+@import 'fonts.css';
+:root{
+    --roboto: 'roboto';
+
+    --white: #fff;
+    --blue: #4581b7;
+    --gray: #bab9b9;
+    --gray-dark: #7f7f7f;
+    --gray-black: #808080;
+}
